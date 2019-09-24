@@ -1,0 +1,68 @@
+body {
+ background-color: maroon;
+ font-family: 'Open Sans', sans-serif;
+ }
+
+ .idk {
+background-color: white;
+border-radius: 20px;
+padding: 30px 75px;
+width: 600px;
+ }
+
+ img {
+     width: 450px;
+ }
+
+ img:hover {
+     border: 2px solid black; 
+ }
+
+ a {
+     text-decoration: none;
+     color:black;
+ }
+
+ .idc {
+     background-color: rgb(235, 235, 235);
+     border: 2px solid grey;
+     padding: 10px 50px;
+    
+ }
+
+ h1 { 
+     color: #808000;
+ }
+
+ h2, h3 {
+     color: maroon;
+ }
+
+ h1, p, h2, h3 {
+     text-align: left;
+ }
+
+ button {
+    color: white;
+    background-color: #808000;
+    padding: 8px 18px;
+    font-size: 18px;
+    font-variant: small-caps;
+ }
+
+ p { 
+     letter-spacing: 0.3px;
+ }
+
+ h1, h2, h3 {
+    font-family: 'Maven Pro', sans-serif;
+ }
+
+ .haha {
+     font-variant: small-caps;
+     border: 1px solid black;
+ }
+
+ .hehe {
+     color: maroon;
+ }
